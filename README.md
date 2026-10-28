@@ -1,5 +1,7 @@
 <div align="center">
 
+![Ilyas — Web & App Builder, Casablanca](./banner.png)
+
 # Hi, I'm Ilyas Abdelrazak Khallaf 👋
 
 ### Aspiring Developer · Web & App Builder — Casablanca, Morocco 🇲🇦
@@ -43,15 +45,17 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+Skills in action: JavaScript, HTML/CSS & Firebase shipped in all four apps · Three.js in the 3D shooter · Python in the AI-employee system & TradingAgents demo · PWA in رفيق القرآن & دربي · Docker is part of my working toolkit.
+
 ### 🚀 Featured Projects
 
-| Project | What it is | Live |
-| --- | --- | --- |
-| **رفيق القرآن** — Quran Companion | 67-question Quran quiz across 8 categories, live leaderboard, prayer times, hadith & per-ayah audio | [Open App](https://rafiq-quran-app.web.app) |
-| **ساحة القتال 3D** — 3D Browser Shooter | Browser 3D shooter: Arabic lobby, 5 skins, 4 weapons, 3 maps, bot training & room-code 1v1 | [Play Now](https://my-shooter-game-7edad.web.app) |
-| **SPIN** — Music Diary | Private music diary: live MusicBrainz search, ratings, moods, lists & My Sonic Identity stats | [Open App](https://spin-music-diary.web.app) |
-| **دربي** — Daily Planner | Arabic RTL planner: tasks, Hijri + Gregorian occasion countdowns, goals, streaks, sign-in & cloud sync | [Open App](https://darbi-9ea2b.web.app) |
-| **Personal Portfolio** | My portfolio site: featured projects, case studies & skills tied to shipped work | [Visit](https://ilyas-portfolio-8e65b.web.app) |
+**رفيق القرآن — Quran Companion** — 67-question Quran quiz across 8 categories, live leaderboard, prayer times, hadith & per-ayah audio. [▶ Try it live](https://rafiq-quran-app.web.app)
+
+**دربي — Daily Planner** — Arabic RTL planner: tasks, Hijri + Gregorian occasion countdowns, goals, streaks, sign-in & cloud sync. [▶ Try it live](https://darbi-9ea2b.web.app)
+
+**SPIN — Music Diary** — Private music diary: live MusicBrainz search, ratings, moods, lists & My Sonic Identity stats. [▶ Try it live](https://spin-music-diary.web.app)
+
+More work (3D shooter game & more) on my [portfolio](https://ilyas-portfolio-8e65b.web.app).
 
 ### 📊 GitHub Stats
 
